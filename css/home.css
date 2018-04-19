@@ -1,0 +1,54 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    background-size: 100% 100%;
+    background-attachment: scroll;
+    background-position: center;
+    margin-top: 0px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(170, 58, 58);
+    font-weight: 100;
+    font-size: 25px;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(170, 58, 58);
+    margin-top: 220px;
+    margin-bottom: 240px;
+}
+
+span {
+    margin-top: 55px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.navBarStyle {
+    margin-left: 82%;
+    padding: 10px;
+    color: rgb(170, 58, 58);
+}
+
+.datetime{
+    text-align: center;
+    height: 70px;
+    width: 100%;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(170, 58, 58);
+}
+
+footer {
+    background-color: rgb(34, 33, 33);
+    text-align: center;
+    height: 70px;
+    width: 100%;
+}
